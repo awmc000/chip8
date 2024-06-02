@@ -1,0 +1,3 @@
+/home/alex/Programming/C/chip8/CMakeFiles/chip8.dir
+/home/alex/Programming/C/chip8/CMakeFiles/edit_cache.dir
+/home/alex/Programming/C/chip8/CMakeFiles/rebuild_cache.dir
